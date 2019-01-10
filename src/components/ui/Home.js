@@ -27,7 +27,7 @@ class Home extends Component {
         id: 0,
         number: "Hi",
         name: "Hi, I'm Tom",
-        description: "A second-year student of Multimedia Design and Communication who is passionate about learning new technologies. My goal is to become a Web Developer! Here are some of my university projects.",
+        description: "A second-year student of Multimedia Design and Communication who is passionate about learning new technologies. My goal is to become a Web Developer! Currently I am focusing on React, React Native and Redux. Here are some of my university projects.",
         imgMob: "images/cardPhoto.jpg",
         imgDesk: "images/vilnius.jpg",
         width: "p0"
