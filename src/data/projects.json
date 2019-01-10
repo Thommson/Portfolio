@@ -1,0 +1,59 @@
+[
+  {
+    "id": 0,
+    "name": "StudyLife",
+    "description": "StudyLife is a student organization that searches and creates events. Worked on creating a filtering system that could draw information from a CMS with the use of JSON and load it in dynamically with the use of AJAX.",
+    "shortDescription": "",
+    "link": "",
+    "imgMob": "studylifeMob.jpg",
+    "imgDesc": "",
+    "techUsed": "",
+    "warn": "I no longer have access to the CMS so it might not work as intended.",
+    "load": false
+  },
+  {
+    "id": 1,
+    "name": "Guldsmed Apel",
+    "description": "Collaborated in a team of 4 where we create a website that loads content dynamically from a WordPress as a Headless CMS.",
+    "shortDescription": "",
+    "link": "",
+    "imgMob": "guldMob.jpg",
+    "imgDesc": "",
+    "techUsed": "",
+    "warn": "I no longer have access to the CMS so it might not work as intended.",
+    "load": false
+  },
+  {
+    "id": 2,
+    "name": "Saeby Chiropractic",
+    "description": "Developed in contact with the owners of the original website. The objective was to have a full re-design of the website and make it responsive and mobile friendly.",
+    "shortDescription": "",
+    "link": "",
+    "imgMob": "saebyMob.jpg",
+    "imgDesc": "",
+    "techUsed": "",
+    "load": false
+  },
+  {
+    "id": 3,
+    "name": "Elviole",
+    "description": "First Independent project. Contributed to the UX/UI and Communication of the website in a remote work environment.",
+    "shortDescription": "",
+    "link": "",
+    "imgMob": "elvioleMob.jpg",
+    "imgDesc": "",
+    "techUsed": "",
+    "load": false
+  },
+  {
+    "id": 4,
+    "name": "Hackathon",
+    "description": "Nordic Hack was my first attempt at a 24h hackathon. The case was to create a prototype of an air pollution tracking application that could let users quickly and easily understand the air pollution levels in their surroundings.",
+    "shortDescription": "",
+    "link": "",
+    "imgMob": "intelMob.jpg",
+    "imgDesc": "",
+    "techUsed": "",
+    "load": false
+  }
+]
